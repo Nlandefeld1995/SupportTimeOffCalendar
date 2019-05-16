@@ -1,0 +1,26 @@
+{
+    "name": "Time Off Calendar",
+    "version": "1.0.0",
+    "size": {
+        "width": 2,
+        "height": 2
+    },
+    "mapping": [{
+        "alias": "timeoff",
+        "dataSetId": "f4aac897-e4d3-48cf-91e8-8c5360d9e222",
+        "fields": [{
+                "alias": "name",
+                "columnName": "Employee_Name"
+            },
+            {
+                "alias": "date",
+                "columnName": "Start_Date "
+            },
+            {
+                "alias": "type",
+                "columnName": "Time_Off_Type "
+            }
+        ]
+    }],
+    "id": "{}"
+}
